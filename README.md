@@ -3,4 +3,4 @@ Analysis of Kickstarter campaigns to assess trends
 
 ![Outcomes Based on Launch Data](/Outcomes.png)
 
-![Parent Category Outcomes](/Parent.org)
+![Parent Category Outcomes](/Parent.png)
