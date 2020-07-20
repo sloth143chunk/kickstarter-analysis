@@ -37,6 +37,9 @@ Some limitations of this data set are that there is not enough insight into the 
 Using this data, I believe creating graphs comparing location to outcomes and goals, could further help with deciding where to promote your play Kickstarter campaign in the future. This could give more specific insight into the best places to launch new campaigns.
 
 
+
+
+
 # An Analysis of Kickstarter Campaigns
 Analysis of Kickstarter campaigns to assess trends
 
